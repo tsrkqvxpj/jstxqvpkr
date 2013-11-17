@@ -21,7 +21,7 @@ body {
 
 #top {
 	height: 360px;
-	background-image: url('../images/top_image.jpg');
+	background-image: url('../images/top_image_2.jpg');
 	background-position: center;
 }
 
@@ -51,11 +51,18 @@ body {
 	font-weight: 600;
 }
 
+#title {
+	margin-right: auto;
+	margin-left: auto;
+	width: 50%;
+	text-align: center;
+}
+
 
 .main {
 	position: relative;
 	top: -150px;
-	width: 50%;
+	width: 75%;
 	height: 500px;
 	background-color: white;
 	margin-left: auto;
